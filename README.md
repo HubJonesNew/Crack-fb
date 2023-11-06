@@ -1,6 +1,6 @@
 # Crack-fb
 
-https://github.com/HubJonesNew/Crack-fb.git
+git clone https://github.com/HubJonesNew/Crack-fb.git
 
 ls
 
